@@ -6,6 +6,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Publish Package](https://github.com/benjisoft/reactjs-particle-animation/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/benjisoft/reactjs-particle-animation/actions/workflows/npm-publish-github-packages.yml)
 
 
 
