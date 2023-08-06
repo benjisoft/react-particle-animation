@@ -19,7 +19,7 @@
 <h3 align="center">React Particle Animation</h3>
 
   <p align="center">
-    A simple library to provide react compatible particle animations. Forked from https://github.com/transitive-bullshit/reactjs-particle-animation. 
+    A simple library to provide react compatible particle animations. Forked from https://github.com/transitive-bullshit/react-particle-animation. 
     <br />
     <a href="https://github.com/benjisoft/reactjs-particle-animation"><strong>Explore the docs »</strong></a>
     <br />
@@ -87,7 +87,7 @@ yarn add reactjs-particle-animation
 
 ## Usage
 
-Check out the [demo](https://transitive-bullshit.github.io/reactjs-particle-animation/) in the [example folder](https://github.com/transitive-bullshit/reactjs-particle-animation/tree/master/example).
+Check out the [demo](https://transitive-bullshit.github.io/reactjs-particle-animation/) in the [example folder](https://github.com/benjisoft/reactjs-particle-animation/tree/master/example).
 
 ```jsx
 import React, { Component } from 'react'
@@ -168,7 +168,7 @@ Project Link: [https://github.com/benjisoft/reactjs-particle-animation](https://
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [transitive-bullshit](https://github.com/transitive-bullshit/reactjs-particle-animation)
+* [transitive-bullshit](https://github.com/transitive-bullshit/react-particle-animation)
 * [othneildrew](https://github.com/othneildrew/Best-README-Template)
 * [VisiMedia](https://visimedia.co.uk)
 
