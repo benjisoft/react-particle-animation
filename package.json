@@ -1,6 +1,6 @@
 {
   "name": "reactjs-particle-animation",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Canvas-based particle animation for React.",
   "author": "Ben Lewis",
   "license": "MIT",
