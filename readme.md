@@ -12,23 +12,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/benjisoft/react-particle-animation">
-    <img src="https://visimedia.co.uk/images/Logo-Horizontal-Transparent-p-500.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/benjisoft/reactjs-particle-animation">
+    <img src="https://visimedia.co.uk/images/Logo-Horizontal-Transparent-p-500.png" alt="Logo" height="80">
   </a>
 
 <h3 align="center">React Particle Animation</h3>
 
   <p align="center">
-    A simple library to provide react compatible particle animations. Forked from https://github.com/transitive-bullshit/react-particle-animation. 
+    A simple library to provide react compatible particle animations. Forked from https://github.com/transitive-bullshit/reactjs-particle-animation. 
     <br />
-    <a href="https://github.com/benjisoft/react-particle-animation"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/benjisoft/reactjs-particle-animation"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://transitive-bullshit.github.io/react-particle-animation">View Demo</a>
+    <a href="https://transitive-bullshit.github.io/reactjs-particle-animation">View Demo</a>
     ·
-    <a href="https://github.com/benjisoft/react-particle-animation/issues">Report Bug</a>
+    <a href="https://github.com/benjisoft/reactjs-particle-animation/issues">Report Bug</a>
     ·
-    <a href="https://github.com/benjisoft/react-particle-animation/issues">Request Feature</a>
+    <a href="https://github.com/benjisoft/reactjs-particle-animation/issues">Request Feature</a>
   </p>
 </div>
 
@@ -80,19 +80,19 @@
 ## Install
 
 ```bash
-npm install --save react-particle-animation
+npm install --save reactjs-particle-animation
 # or
-yarn add react-particle-animation
+yarn add reactjs-particle-animation
 ```
 
 ## Usage
 
-Check out the [demo](https://transitive-bullshit.github.io/react-particle-animation/) in the [example folder](https://github.com/transitive-bullshit/react-particle-animation/tree/master/example).
+Check out the [demo](https://transitive-bullshit.github.io/reactjs-particle-animation/) in the [example folder](https://github.com/transitive-bullshit/reactjs-particle-animation/tree/master/example).
 
 ```jsx
 import React, { Component } from 'react'
 
-import ParticleAnimation from 'react-particle-animation'
+import ParticleAnimation from 'reactjs-particle-animation'
 
 class Example extends Component {
   render () {
@@ -118,7 +118,7 @@ class Example extends Component {
 
 Note that for colors, `rgba` are all floating point numbers between 0 and 255 (inclusive).
 
-Note that the canvas size will automatically be inferred based on available space via [react-sizeme](https://github.com/ctrlplusb/react-sizeme), so it should be really easy to use this component as a fullscreen background as in the [demo](https://transitive-bullshit.github.io/react-particle-animation/).
+Note that the canvas size will automatically be inferred based on available space via [react-sizeme](https://github.com/ctrlplusb/react-sizeme), so it should be really easy to use this component as a fullscreen background as in the [demo](https://transitive-bullshit.github.io/reactjs-particle-animation/).
 
 ## Related
 
@@ -159,7 +159,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Ben Lewis - [@benjisoft](https://twitter.com/benjisoft) - ben.lewis@visimedia.co.uk.com
 
-Project Link: [https://github.com/benjisoft/react-particle-animation](https://github.com/benjisoft/react-particle-animation)
+Project Link: [https://github.com/benjisoft/reactjs-particle-animation](https://github.com/benjisoft/reactjs-particle-animation)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,7 +168,7 @@ Project Link: [https://github.com/benjisoft/react-particle-animation](https://gi
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [transitive-bullshit](https://github.com/transitive-bullshit/react-particle-animation)
+* [transitive-bullshit](https://github.com/transitive-bullshit/reactjs-particle-animation)
 * [othneildrew](https://github.com/othneildrew/Best-README-Template)
 * [VisiMedia](https://visimedia.co.uk)
 
@@ -178,19 +178,19 @@ Project Link: [https://github.com/benjisoft/react-particle-animation](https://gi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/benjisoft/react-particle-animation.svg?style=for-the-badge
-[contributors-url]: https://github.com/benjisoft/react-particle-animation/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/benjisoft/react-particle-animation.svg?style=for-the-badge
-[forks-url]: https://github.com/benjisoft/react-particle-animation/network/members
-[stars-shield]: https://img.shields.io/github/stars/benjisoft/react-particle-animation.svg?style=for-the-badge
-[stars-url]: https://github.com/benjisoft/react-particle-animation/stargazers
-[issues-shield]: https://img.shields.io/github/issues/benjisoft/react-particle-animation.svg?style=for-the-badge
-[issues-url]: https://github.com/benjisoft/react-particle-animation/issues
-[license-shield]: https://img.shields.io/github/license/benjisoft/react-particle-animation.svg?style=for-the-badge
-[license-url]: https://github.com/benjisoft/react-particle-animation/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/benjisoft/reactjs-particle-animation.svg?style=for-the-badge
+[contributors-url]: https://github.com/benjisoft/reactjs-particle-animation/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/benjisoft/reactjs-particle-animation.svg?style=for-the-badge
+[forks-url]: https://github.com/benjisoft/reactjs-particle-animation/network/members
+[stars-shield]: https://img.shields.io/github/stars/benjisoft/reactjs-particle-animation.svg?style=for-the-badge
+[stars-url]: https://github.com/benjisoft/reactjs-particle-animation/stargazers
+[issues-shield]: https://img.shields.io/github/issues/benjisoft/reactjs-particle-animation.svg?style=for-the-badge
+[issues-url]: https://github.com/benjisoft/reactjs-particle-animation/issues
+[license-shield]: https://img.shields.io/github/license/benjisoft/reactjs-particle-animation.svg?style=for-the-badge
+[license-url]: https://github.com/benjisoft/reactjs-particle-animation/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/benji-lewis
-[product-screenshot]: https://github.com/benjisoft/react-particle-animation/blob/master/demo.png?raw=true
+[product-screenshot]: https://github.com/benjisoft/reactjs-particle-animation/blob/master/demo.png?raw=true
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
