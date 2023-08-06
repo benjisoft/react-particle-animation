@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/benjisoft/react-particle-animation">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://visimedia.co.uk/images/Logo-Horizontal-Transparent-p-500.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">React Particle Animation</h3>
