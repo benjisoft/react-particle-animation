@@ -22,8 +22,8 @@
     "react-sizeme": "^3.0.1"
   },
   "peerDependencies": {
-    "prop-types": ">= 16",
-    "react": ">= 16"
+    "prop-types": "^15",
+    "react": "^16"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
